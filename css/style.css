@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: gray;
+    padding: 40px;
+    color: white;
+    font-family: tahoma;
+}
+
+h1 {
+    letter-spacing: 3px;
+}
